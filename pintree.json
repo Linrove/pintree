@@ -1,0 +1,918 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1696814928995,
+    "title": "收藏夹栏",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1696906294247,
+        "title": "Quickstart | Weights & Biases Documentation",
+        "icon": "https://logo.clearbit.com/docs.wandb.ai",
+        "url": "https://docs.wandb.ai/quickstart"
+      },
+      {
+        "type": "link",
+        "addDate": 1696906312351,
+        "title": "Artificial-Intelligence-Terminology-Database/section/Machine Learning.md at master · jiqizhixin/Artificial-Intelligence-Terminology-Database · GitHub",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database/blob/master/section/Machine%20Learning.md"
+      },
+      {
+        "type": "link",
+        "addDate": 1696906319983,
+        "title": "登录入口_阿里邮箱企业版-阿里云",
+        "icon": "https://logo.clearbit.com/qiye.aliyun.com",
+        "url": "https://qiye.aliyun.com/alimail/auth/login?custom_login_flag=1&reurl=%2Falimail%2F%23h%3DWyJmbV8yIixbIjIiLCIiLHsiZklkIjoiMiIsInNlbElkIjoiMl8wOkR6enp6eU9ybnFqJC0tLS5VdXE2RDFKIiwib2Zmc2V0IjowLCJyZyI6W1siMiIseyJpZCI6Im0hMl8wOkR6enp6eU9ybnFqJC0tLS5VdXE2RDFKIiwic2YiOjB9XV19LHsibGFiZWwiOiLpgq7ku7YifV1d"
+      },
+      {
+        "type": "link",
+        "addDate": 1696921465627,
+        "title": "TensorFlow 学习资源站 - 知乎",
+        "icon": "https://logo.clearbit.com/www.zhihu.com",
+        "url": "https://www.zhihu.com/column/c_1292161131210481664"
+      },
+      {
+        "type": "link",
+        "addDate": 1696922671457,
+        "title": "机器学习术语表 |机器学习 |面向开发者的谷歌",
+        "icon": "https://logo.clearbit.com/developers.google.cn",
+        "url": "https://developers.google.cn/machine-learning/glossary/?hl=zh-CN#TP"
+      },
+      {
+        "type": "link",
+        "addDate": 1696926389090,
+        "title": "云检医学-精准健康、精准医疗、智慧医疗",
+        "icon": "https://logo.clearbit.com/www.51yunjian.com",
+        "url": "https://www.51yunjian.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1696986564348,
+        "title": "R 基础语法 | 菜鸟教程",
+        "icon": "https://logo.clearbit.com/www.runoob.com",
+        "url": "https://www.runoob.com/r/r-basic-syntax.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1697011528304,
+        "title": "几乎每个机器学习项目的任务备忘单 |作者：哈希特·泰吉 |迈向数据科学",
+        "icon": "https://logo.clearbit.com/towardsdatascience.com",
+        "url": "https://towardsdatascience.com/task-cheatsheet-for-almost-every-machine-learning-project-d0946861c6d0"
+      },
+      {
+        "type": "link",
+        "addDate": 1697100070085,
+        "title": "Machine Learning Glossary: ML Fundamentals  |  Google for Developers",
+        "icon": "https://logo.clearbit.com/developers.google.cn",
+        "url": "https://developers.google.cn/machine-learning/glossary/fundamentals#classification_threshold"
+      },
+      {
+        "type": "link",
+        "addDate": 1697448036149,
+        "title": "Artificial Intelligence and Machine Learning in Medical Devices",
+        "icon": "https://logo.clearbit.com/www.fda.gov",
+        "url": "https://www.fda.gov/media/160125/download"
+      },
+      {
+        "type": "link",
+        "addDate": 1697504653627,
+        "title": "FDA在软件中规范AI/ML作为医疗设备的方法是什么？",
+        "icon": "https://logo.clearbit.com/www.greenlight.guru",
+        "url": "https://www.greenlight.guru/blog/software-medical-device-artificial-intellgience-machine-learning-fda"
+      },
+      {
+        "type": "link",
+        "addDate": 1697616198424,
+        "title": "性能测试的实际示例",
+        "icon": "https://logo.clearbit.com/www.qatouch.com",
+        "url": "https://www.qatouch.com/blog/real-world-examples-of-performance-testing/#:~:text=The%20real%20user%20performance%20tests%20are%20used%20to,times%2C%20high%20data%20usage%2C%20and%20non-responsive%20UI%20components."
+      },
+      {
+        "type": "link",
+        "addDate": 1697676040279,
+        "title": "mProbe Devops Management Platform",
+        "icon": "https://logo.clearbit.com/172.18.1.77",
+        "url": "http://172.18.1.77:8081/admin/portal/model/list"
+      },
+      {
+        "type": "link",
+        "addDate": 1697676828027,
+        "title": "什么是模型监控 - 机器学习 |MLOps Wiki",
+        "icon": "https://logo.clearbit.com/censius.ai",
+        "url": "https://censius.ai/wiki/model-monitoring#:~:text=What%20Is%20Model%20Monitoring%3F%20ML%20model%20monitoring%20is,quality%20issues%2C%20data%20relevance%2C%20model%20accuracy%2C%20and%20bias."
+      },
+      {
+        "type": "link",
+        "addDate": 1697682438457,
+        "title": "监控生产中的机器学习模型 |作者：埃梅利·德拉尔 |迈向数据科学",
+        "icon": "https://logo.clearbit.com/towardsdatascience.com",
+        "url": "https://towardsdatascience.com/monitoring-machine-learning-models-in-production-how-to-track-data-quality-and-integrity-391435c8a299"
+      },
+      {
+        "type": "link",
+        "addDate": 1697682885287,
+        "title": "显然是 AI 博客 - ML 监控",
+        "icon": "https://logo.clearbit.com/www.evidentlyai.com",
+        "url": "https://www.evidentlyai.com/category/ml-monitoring"
+      },
+      {
+        "type": "link",
+        "addDate": 1697682893254,
+        "title": "如何从 ML 模型监控开始。分步指南。",
+        "icon": "https://logo.clearbit.com/www.evidentlyai.com",
+        "url": "https://www.evidentlyai.com/blog/mlops-monitoring"
+      },
+      {
+        "type": "link",
+        "addDate": 1697698187165,
+        "title": "监控生产中的机器学习模型",
+        "icon": "https://logo.clearbit.com/christophergs.com",
+        "url": "https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/"
+      },
+      {
+        "type": "link",
+        "addDate": 1698202651501,
+        "title": "【4.1】秩和检验(Mann-Whitney U test; Wilcoxon rank-sum test) - Sam' Note",
+        "icon": "https://logo.clearbit.com/qinqianshan.com",
+        "url": "https://qinqianshan.com/math/significance_test/rank-sum-test/"
+      },
+      {
+        "type": "link",
+        "addDate": 1698719878359,
+        "title": "Data Analysis Report",
+        "icon": "https://logo.clearbit.com/172.16.1.31",
+        "url": "file://172.16.1.31/mProbe.model/ymo/mprobe-model-ms/R/T2D/2200-report/Target-2200-Serum-Pos-T2D_T1.0.0_M0.1.0.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1699847073138,
+        "title": "World Stroke Organization (WSO): Global Stroke Fact Sheet 2022 - Valery L Feigin, Michael Brainin, Bo Norrving, Sheila Martins, Ralph L Sacco, Werner Hacke, Marc Fisher, Jeyaraj Pandian, Patrice Lindsay, 2022",
+        "icon": "https://logo.clearbit.com/journals.sagepub.com",
+        "url": "https://journals.sagepub.com/doi/10.1177/17474930211065917"
+      },
+      {
+        "type": "link",
+        "addDate": 1700719422978,
+        "title": "Visual Studio在整个项目中查找、替换-CSDN博客",
+        "icon": "https://logo.clearbit.com/blog.csdn.net",
+        "url": "https://blog.csdn.net/qq_19734597/article/details/100535278"
+      },
+      {
+        "type": "link",
+        "addDate": 1702448073715,
+        "title": "第 2 章 从 R Markdown 到 HTML 文档 | R Markdown 指南",
+        "icon": "https://logo.clearbit.com/bookdown.org",
+        "url": "https://bookdown.org/qiushi/rmarkdown-guide/html-document.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1702973422895,
+        "title": "R Markdown 指南",
+        "icon": "https://logo.clearbit.com/cosname.github.io",
+        "url": "https://cosname.github.io/rmarkdown-guide/"
+      },
+      {
+        "type": "link",
+        "addDate": 1702973555904,
+        "title": "DT：DataTables 库的 R 接口",
+        "icon": "https://logo.clearbit.com/rstudio.github.io",
+        "url": "https://rstudio.github.io/DT/"
+      },
+      {
+        "type": "link",
+        "addDate": 1702973887228,
+        "title": "Cheatsheets - Posit",
+        "icon": "https://logo.clearbit.com/posit.co",
+        "url": "https://posit.co/resources/cheatsheets/"
+      },
+      {
+        "type": "link",
+        "addDate": 1703233147544,
+        "title": "PMML 4.1 - Mining Schema",
+        "icon": "https://logo.clearbit.com/dmg.org",
+        "url": "https://dmg.org/pmml/v4-1/MiningSchema.html#xsdType_MISSING-VALUE-TREATMENT-METHOD"
+      },
+      {
+        "type": "link",
+        "addDate": 1703469491752,
+        "title": "安排我们的预测分析软件演示",
+        "icon": "https://logo.clearbit.com/hbisolutions.com",
+        "url": "https://hbisolutions.com/schedule-a-demo/#"
+      },
+      {
+        "type": "link",
+        "addDate": 1703667793995,
+        "title": "十六进制配色（ggplot2配色）_ggplot颜色代码-CSDN博客",
+        "icon": "https://logo.clearbit.com/blog.csdn.net",
+        "url": "https://blog.csdn.net/u014566586/article/details/83864186"
+      },
+      {
+        "type": "folder",
+        "addDate": 1703733380650,
+        "title": "归一化",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1703733427045,
+            "title": "LC/MS代谢组学数据的各种归一化方法的比较",
+            "icon": "https://logo.clearbit.com/www.scirp.org",
+            "url": "https://www.scirp.org/journal/PaperInformation?paperID=86606"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733431028,
+            "title": "SERRF: 轻松搞定大样本代谢组学数据预处理",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI3ODMxODE4Mw==&mid=2247484328&idx=1&sn=0f51415a450fb2b2a4fe23ff1bc6a4cb&chksm=eb599ea0dc2e17b63b79dca8ddbebe29588796b00795afafca387c612dac87a54ad0cb342453&mpshare=1&scene=1&srcid=&sharer_sharetime=1567757191926&sharer_shareid=57f69e562db94e4e682fc0073cfaa3cd#rd"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733433954,
+            "title": "Normalization | 关于归一化方法的一些思考",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI3ODMxODE4Mw==&mid=2247484338&idx=1&sn=1322f7e6a260f8be1de8318862968522&chksm=eb599ebadc2e17ac3de1b393e59e9e49ca9f0e3a6a84e94defc09e804d5bfb413a7c7a813d37&mpshare=1&scene=1&srcid=&sharer_sharetime=1567757145182&sharer_shareid=57f69e562db94e4e682fc0073cfaa3cd#rd"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733439019,
+            "title": "生物信息学 |牛津学术",
+            "icon": "https://logo.clearbit.com/academic.oup.com",
+            "url": "https://academic.oup.com/bioinformatics"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733441543,
+            "title": "分析方法主页-新分析方法和技术的早期应用，显示出具有社会影响的潜力<br/><br/>主编：Scott Martin<br/>影响因子：3.1<br/>首次决策时间（仅限同行评审）：28.5天<br/>MEDLINE索引",
+            "icon": "https://logo.clearbit.com/pubs.rsc.org",
+            "url": "https://pubs.rsc.org/en/journals/journalissues/ay#!recentarticles&adv"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733449035,
+            "title": "SERRF系列",
+            "icon": "https://logo.clearbit.com/slfan2013.github.io",
+            "url": "https://slfan2013.github.io/SERRF-online/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733467337,
+            "title": "非靶向和靶向代谢组学解析 - 安必奇生物科技",
+            "icon": "https://logo.clearbit.com/www.abace-biology.com",
+            "url": "https://www.abace-biology.com/targeted-and-non-targeted-metabolomics-analysis.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733470363,
+            "title": "Systematic Error Removal Using Random Forest for Normalizing Large-Scale Untargeted Lipidomics Data - PubMed",
+            "icon": "https://logo.clearbit.com/pubmed.ncbi.nlm.nih.gov",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30758187/"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733496605,
+            "title": "代谢组学——数据标准化 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/79373522"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733609763,
+            "title": "GitHub - linliliaabbcc1024/SERRFweb",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/linliliaabbcc1024/SERRFweb"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733844980,
+            "title": "Normalization and integration of large-scale metabolomics data using support vector regression | Metabolomics",
+            "icon": "https://logo.clearbit.com/link.springer.com",
+            "url": "https://link.springer.com/article/10.1007/s11306-016-1026-5"
+          },
+          {
+            "type": "link",
+            "addDate": 1703733887896,
+            "title": "Metabolomics | Home",
+            "icon": "https://logo.clearbit.com/www.springer.com",
+            "url": "https://www.springer.com/journal/11306"
+          },
+          {
+            "type": "link",
+            "addDate": 1706000310984,
+            "title": "代谢组学数据标准化",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s?__biz=MzI3ODMxODE4Mw==&mid=2247483860&idx=1&sn=488673498118a1725e8f6b70825c450a&chksm=eb599cdcdc2e15ca732a4c7c5c6614019cf39952a36ec002adfec8af5799ef704c21de57b656&mpshare=1&scene=1&srcid=0703QsnjfCmMfhGY0f87fFdx#rd"
+          },
+          {
+            "type": "link",
+            "addDate": 1706000401188,
+            "title": "(34 封私信 / 80 条消息) 自学Git，有哪些书籍或者好的学习资源？ - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/question/38008771/answer/3308392246"
+          },
+          {
+            "type": "link",
+            "addDate": 1714092445089,
+            "title": "学术成果 | 凯莱谱参与的全球首个代谢组学标准物质研发及实验室质评研究成果发表",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/JSpAusKFEkOwNkbUkmtxKw"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1703733404036,
+        "title": "R",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1703733673176,
+            "title": "第 3 章 使用 R Markdown 创建常用文档 | R Markdown 指南",
+            "icon": "https://logo.clearbit.com/cosname.github.io",
+            "url": "https://cosname.github.io/rmarkdown-guide/rmarkdown-document.html#html-title"
+          },
+          {
+            "type": "link",
+            "addDate": 1702973954362,
+            "title": "exts.ggplot2.tidyverse.org/gallery/",
+            "icon": "https://logo.clearbit.com/exts.ggplot2.tidyverse.org",
+            "url": "https://exts.ggplot2.tidyverse.org/gallery/"
+          },
+          {
+            "type": "link",
+            "addDate": 1709004983213,
+            "title": "Bioconductor - 3.18 Software Packages",
+            "icon": "https://logo.clearbit.com/bioconductor.org",
+            "url": "https://bioconductor.org/packages/3.18/bioc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1710902683481,
+            "title": "RPubs - R 包开发2022",
+            "icon": "https://logo.clearbit.com/rpubs.com",
+            "url": "https://rpubs.com/liam/RpackagesDevelopment"
+          },
+          {
+            "type": "link",
+            "addDate": 1712567231303,
+            "title": "ggplot2高效实用指南 (可视化脚本、工具、套路、配色)",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/EZ8R4v4f_jU3aaUP-1p1MQ"
+          },
+          {
+            "type": "link",
+            "addDate": 1712567966093,
+            "title": "Getting Started • ggprism",
+            "icon": "https://logo.clearbit.com/csdaw.github.io",
+            "url": "https://csdaw.github.io/ggprism/articles/ggprism.html#:~:text=The%20most%20useful%20function%20in%20this%20package%20is,correspond%20to%20the%20colour%20schemes%20available%20in%20Prism."
+          },
+          {
+            "type": "link",
+            "addDate": 1713521787851,
+            "title": "R in Geosciences - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/column/c_1532428972951891968"
+          },
+          {
+            "type": "link",
+            "addDate": 1715332573736,
+            "title": "ggsci：三行代码实现CNS级论文插图配色 - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/627114973"
+          },
+          {
+            "type": "link",
+            "addDate": 1723533282545,
+            "title": "Chapter 9 第七讲：如何进行基本的数据分析: t-test和ANOVA | R语言在心理学研究中的应用: 从原始数据到可重复的论文手稿(V2)",
+            "icon": "https://logo.clearbit.com/bookdown.org",
+            "url": "https://bookdown.org/hcp4715/R4PsyBook/lesson-7.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724835500038,
+            "title": "dreamRs | expert R | expert shiny | datascience | France",
+            "icon": "https://logo.clearbit.com/www.dreamrs.fr",
+            "url": "https://www.dreamrs.fr/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724901171251,
+            "title": "RStudio 插件，或者如何让您的编码生活更轻松？- 统计和 R",
+            "icon": "https://logo.clearbit.com/statsandr.com",
+            "url": "https://statsandr.com/blog/rstudio-addins-or-how-to-make-your-coding-life-easier/#esquisse"
+          },
+          {
+            "type": "link",
+            "addDate": 1726276963477,
+            "title": "The R Graph Gallery – Help and inspiration for R charts",
+            "icon": "https://logo.clearbit.com/r-graph-gallery.com",
+            "url": "https://r-graph-gallery.com/"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1705888035732,
+        "title": "Glasgow Coma Scale/Score (GCS)",
+        "icon": "https://logo.clearbit.com/www.mdcalc.com",
+        "url": "https://www.mdcalc.com/calc/64/glasgow-coma-scale-score-gcs"
+      },
+      {
+        "type": "link",
+        "addDate": 1705987677000,
+        "title": "A :: Alphabetic Index :: ScyMed Network :: ScyMed&#174; ::::",
+        "icon": "https://logo.clearbit.com/www.scymed.com",
+        "url": "http://www.scymed.com/en/smnxbn/smnxbnai.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1705997848024,
+        "title": "MLOps：机器学习中的持续交付和自动化流水线  |  云架构中心  |  Google Cloud",
+        "icon": "https://logo.clearbit.com/cloud.google.com",
+        "url": "https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=zh-cn"
+      },
+      {
+        "type": "link",
+        "addDate": 1706000297860,
+        "title": "PMML 4.4 - Data Dictionary",
+        "icon": "https://logo.clearbit.com/dmg.org",
+        "url": "https://dmg.org/pmml/v4-4/DataDictionary.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1706082254233,
+        "title": "微生信-在线生物信息学分析、可视化云平台",
+        "icon": "https://logo.clearbit.com/www.bioinformatics.com.cn",
+        "url": "https://www.bioinformatics.com.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1706087004942,
+        "title": "Welcome to gplearn’s documentation! — gplearn 0.4.2 documentation",
+        "icon": "https://logo.clearbit.com/gplearn.readthedocs.io",
+        "url": "https://gplearn.readthedocs.io/en/stable/"
+      },
+      {
+        "type": "link",
+        "addDate": 1706178381989,
+        "title": "FindRoot[{k + b == 0, k*Exp[a*0.8] + b == 0.013127, k*Exp[a*0.99] + b == 0.99}, {{k, 1}, {a, 1}, {b, -1}}] - Wolfram|Alpha",
+        "icon": "https://logo.clearbit.com/www.wolframalpha.com",
+        "url": "https://www.wolframalpha.com/input?i=FindRoot%5B%7Bk+%2B+b+%3D%3D+0%2C+k*Exp%5Ba*0.8%5D+%2B+b+%3D%3D+0.013127%2C+k*Exp%5Ba*0.99%5D+%2B+b+%3D%3D+0.99%7D%2C+%7B%7Bk%2C+1%7D%2C+%7Ba%2C+1%7D%2C+%7Bb%2C+-1%7D%7D%5D"
+      },
+      {
+        "type": "link",
+        "addDate": 1706231178848,
+        "title": "4 Workflow: basics | R for Data Science",
+        "icon": "https://logo.clearbit.com/r4ds.had.co.nz",
+        "url": "https://r4ds.had.co.nz/workflow-basics.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1706251185310,
+        "title": "Cholesterol HDL - High Density Lipoprotein conversion calculator to mmol/l, µmol/l, mg/dl, mg/100ml, mg%, mg/l, µg/ml units. Online converter from conventional to SI units | UNITSLAB.COM",
+        "icon": "https://logo.clearbit.com/unitslab.com",
+        "url": "https://unitslab.com/node/59"
+      },
+      {
+        "type": "link",
+        "addDate": 1706252207025,
+        "title": "Online conversion calculator for many types of measurement units in laboratory and medicine practice | UnitsLab.com",
+        "icon": "https://logo.clearbit.com/unitslab.com",
+        "url": "https://unitslab.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1706495421884,
+        "title": "Calculators: Positive Predictive Value of a Test - Merck Manuals Professional Edition",
+        "icon": "https://logo.clearbit.com/www.merckmanuals.com",
+        "url": "https://www.merckmanuals.com/professional/multimedia/clinical-calculator/positive-predictive-value-of-a-test"
+      },
+      {
+        "type": "link",
+        "addDate": 1706499658262,
+        "title": "National Center for Biotechnology Information",
+        "icon": "https://logo.clearbit.com/www.ncbi.nlm.nih.gov",
+        "url": "https://www.ncbi.nlm.nih.gov/"
+      },
+      {
+        "type": "link",
+        "addDate": 1706593572493,
+        "title": "KEGG: Kyoto Encyclopedia of Genes and Genomes",
+        "icon": "https://logo.clearbit.com/www.genome.jp",
+        "url": "https://www.genome.jp/kegg/"
+      },
+      {
+        "type": "link",
+        "addDate": 1708221161867,
+        "title": "LabsforLifeProject - YouTube的",
+        "icon": "https://logo.clearbit.com/www.youtube.com",
+        "url": "https://www.youtube.com/@LabsforLifeProject/videos"
+      },
+      {
+        "type": "link",
+        "addDate": 1708410718299,
+        "title": "FINDRISC (Finnish Diabetes Risk Score)",
+        "icon": "https://logo.clearbit.com/www.mdcalc.com",
+        "url": "https://www.mdcalc.com/calc/4000/findrisc-finnish-diabetes-risk-score"
+      },
+      {
+        "type": "link",
+        "addDate": 1708480414059,
+        "title": "OncoSearch",
+        "icon": "https://logo.clearbit.com/kaopubear.top",
+        "url": "https://kaopubear.top/oncosearch/#gsc.tab=0"
+      },
+      {
+        "type": "link",
+        "addDate": 1708593086829,
+        "title": "方法比较研究中的统计分析第一部分",
+        "icon": "https://logo.clearbit.com/acutecaretesting.org",
+        "url": "https://acutecaretesting.org/en/articles/statistical-analysis-in-method-comparison-studies-part-one"
+      },
+      {
+        "type": "folder",
+        "addDate": 1709004760668,
+        "title": "云检",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1709004749095,
+            "title": "Log in - Jira",
+            "icon": "https://logo.clearbit.com/oa.51yunjian.com",
+            "url": "http://oa.51yunjian.com:8080/login.jsp?os_destination=https%3A%2F%2Fjira.mprobe.com%2FOAapp%2Fhtpages%2Fapp%2Fmodule%2Flogin%2F8.0Login.jsp"
+          },
+          {
+            "type": "link",
+            "addDate": 1705997048935,
+            "title": "RMLOps Output Example - Healthcare & Biology AI - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/display/HBA/RMLOps+Output+Example"
+          },
+          {
+            "type": "link",
+            "addDate": 1696906322815,
+            "title": "云检医学协同OA系统",
+            "icon": "https://logo.clearbit.com/oa.51yunjian.com",
+            "url": "http://oa.51yunjian.com:8080/OAapp/htpages/app/module/login/8.0Login.jsp"
+          },
+          {
+            "type": "link",
+            "addDate": 1697098355375,
+            "title": "浏览项目 - Jira",
+            "icon": "https://logo.clearbit.com/jira.mprobe.com",
+            "url": "https://jira.mprobe.com/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all"
+          },
+          {
+            "type": "link",
+            "addDate": 1697013610730,
+            "title": "Machine Learning (R) Instructions - Healthcare & Biology AI - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/display/HBA/Machine+Learning+%28R%29+Instructions"
+          },
+          {
+            "type": "link",
+            "addDate": 1698646396483,
+            "title": "Confluence - HTML 附件 - 员工入职 - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/display/EO/Confluence+-+HTML+Attachment"
+          },
+          {
+            "type": "link",
+            "addDate": 1705998815089,
+            "title": "RMLOps Package Help Documentation - Healthcare & Biology AI - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/display/HBA/RMLOps+Package+Help+Documentation"
+          },
+          {
+            "type": "link",
+            "addDate": 1697598187021,
+            "title": "mProbe Devops Management Platform",
+            "icon": "https://logo.clearbit.com/172.18.1.77",
+            "url": "http://172.18.1.77:8081/admin/portal/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1720170143769,
+            "title": "Browse mProbe Galaxy / OmicsDP - Bitbucket",
+            "icon": "https://logo.clearbit.com/bitbucket.mprobe.com",
+            "url": "https://bitbucket.mprobe.com/projects/gal/repos/omicsdp/browse"
+          },
+          {
+            "type": "link",
+            "addDate": 1721697969012,
+            "title": "使用 OmicsDP 开发 Galaxy 工具 - 医疗保健与生物学 AI - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/display/HBA/Develop+Galaxy+Tool+Using+OmicsDP"
+          },
+          {
+            "type": "link",
+            "addDate": 1723684370930,
+            "title": "mProbe Devops Management Platform",
+            "icon": "https://logo.clearbit.com/172.18.1.77",
+            "url": "http://172.18.1.77:8081/admin/login"
+          },
+          {
+            "type": "link",
+            "addDate": 1723684384160,
+            "title": "登录入口_阿里邮箱企业版-阿里云",
+            "icon": "https://logo.clearbit.com/qiye.aliyun.com",
+            "url": "https://qiye.aliyun.com/alimail/auth/login?custom_login_flag=1&reurl=%2Falimail%2F"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1712626583140,
+        "title": "回归",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1712626570148,
+            "title": "Lowess and Loess, Clearly Explained!!! - YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/watch?app=desktop&v=Vf7oJ6z2LCc"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1712627007572,
+        "title": "ML",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1712626995376,
+            "title": "Andrea Perlato",
+            "icon": "https://logo.clearbit.com/www.andreaperlato.com",
+            "url": "https://www.andreaperlato.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1713408054200,
+            "title": "分类问题中的敏感性(Sensitivity)与特异性(Specificity) - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/585001157"
+          },
+          {
+            "type": "link",
+            "addDate": 1713521919074,
+            "title": "Principal Component Analysis (PCA) in R Tutorial | DataCamp",
+            "icon": "https://logo.clearbit.com/www.datacamp.com",
+            "url": "https://www.datacamp.com/tutorial/pca-analysis-r?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=143216588577&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=645433043010&utm_targetid=dsa-1947282172981&utm_loc_interest_ms=&utm_loc_physical_ms=1002992&utm_content=dsa~page~community-tuto&utm_campaign=230119_1-sea~dsa~tutorials_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na-marayc23&gclid=Cj0KCQjwt_qgBhDFARIsABcDjOdsiO6pn6NoDlP1lQVKoQUbhLrrNZQh8lw8qpA313XcFxLwpv03i0UaAuBaEALw_wcB"
+          },
+          {
+            "type": "link",
+            "addDate": 1713522012986,
+            "title": "Data Science Tutorials | DataCamp Blog | DataCamp",
+            "icon": "https://logo.clearbit.com/www.datacamp.com",
+            "url": "https://www.datacamp.com/tutorial"
+          },
+          {
+            "type": "link",
+            "addDate": 1715658457437,
+            "title": "预测分析 ·UC Business Analytics R 编程指南",
+            "icon": "https://logo.clearbit.com/uc-r.github.io",
+            "url": "https://uc-r.github.io/predictive"
+          },
+          {
+            "type": "link",
+            "addDate": 1719804989262,
+            "title": "交叉验证--关于最终选取模型的疑问-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/u011698800/article/details/107607829"
+          },
+          {
+            "type": "link",
+            "addDate": 1719805661781,
+            "title": "scikit-learn：Python 中的机器学习 — scikit-learn 1.5.0 文档",
+            "icon": "https://logo.clearbit.com/scikit-learn.org",
+            "url": "https://scikit-learn.org/stable/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1719822197968,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1719994754900,
+            "title": "生物统计与R极简手册",
+            "icon": "https://logo.clearbit.com/kaopubear.top",
+            "url": "https://kaopubear.top/LearnBasicStatisticsinR/basic_statistics_in_r.html#toc_0"
+          },
+          {
+            "type": "link",
+            "addDate": 1719997540934,
+            "title": "对成本敏感型学习的决策阈值进行后调整 — scikit-learn 1.5.1 文档",
+            "icon": "https://logo.clearbit.com/scikit-learn.org",
+            "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_cost_sensitive_learning.html#tunedthresholdclassifiercv-no-cv"
+          },
+          {
+            "type": "link",
+            "addDate": 1720147813041,
+            "title": "Desmos | 图形计算器",
+            "icon": "https://logo.clearbit.com/www.desmos.com",
+            "url": "https://www.desmos.com/calculator?lang=zh-CN"
+          },
+          {
+            "type": "link",
+            "addDate": 1720399281577,
+            "title": "首页 - HelloGitHub",
+            "icon": "https://logo.clearbit.com/hellogithub.com",
+            "url": "https://hellogithub.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1720660829974,
+            "title": "XGBoost Documentation — xgboost 2.1.0 documentation",
+            "icon": "https://logo.clearbit.com/xgboost.readthedocs.io",
+            "url": "https://xgboost.readthedocs.io/en/latest/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1720762005904,
+            "title": "全产品生命周期 （TPLC） - 良好的机器学习实践 （GMLP） - 医疗保健和生物学 AI - Confluence",
+            "icon": "https://logo.clearbit.com/confluence.mprobe.com",
+            "url": "https://confluence.mprobe.com/pages/viewpage.action?pageId=19530757"
+          },
+          {
+            "type": "link",
+            "addDate": 1721008562671,
+            "title": "医疗器械开发的良好机器学习实践：指导原则 |美国食品和药物管理局",
+            "icon": "https://logo.clearbit.com/www.fda.gov",
+            "url": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles"
+          },
+          {
+            "type": "link",
+            "addDate": 1721202713173,
+            "title": "Visualize-ML (Iris Series: Visualize Math -- From Arithmetic Basics to Machine Learning) · GitHub",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Visualize-ML"
+          },
+          {
+            "type": "link",
+            "addDate": 1721202903928,
+            "title": "Visualize-ML (Visualize-ML) / Repositories",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Visualize-ML?tab=repositories"
+          },
+          {
+            "type": "link",
+            "addDate": 1721369489679,
+            "title": "(PDF) Association between Dietary Fiber Intake and Hyperuricemia among Chinese Adults: Analysis of the China Adult Chronic Disease and Nutrition Surveillance (2015)",
+            "icon": "https://logo.clearbit.com/www.researchgate.net",
+            "url": "https://www.researchgate.net/publication/359626573_Association_between_Dietary_Fiber_Intake_and_Hyperuricemia_among_Chinese_Adults_Analysis_of_the_China_Adult_Chronic_Disease_and_Nutrition_Surveillance_2015"
+          },
+          {
+            "type": "link",
+            "addDate": 1721785377754,
+            "title": "序 - Hello 算法",
+            "icon": "https://logo.clearbit.com/www.hello-algo.com",
+            "url": "https://www.hello-algo.com/chapter_hello_algo/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725521922515,
+            "title": "GitHub - apachecn/ml-mastery-zh: :book: [译] MachineLearningMastery 博客文章",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/apachecn/ml-mastery-zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1725584601722,
+            "title": "First steps with DATAtab",
+            "icon": "https://logo.clearbit.com/datatab.net",
+            "url": "https://datatab.net/tutorial/get-started"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1714093203603,
+        "title": "首页 |基因组生物学",
+        "icon": "https://logo.clearbit.com/genomebiology.biomedcentral.com",
+        "url": "https://genomebiology.biomedcentral.com/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1715737648722,
+        "title": "生信",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1715737629190,
+            "title": "质谱学习笔记——什么是LC-MS/MS质谱图和色谱图？ - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/603934905"
+          },
+          {
+            "type": "link",
+            "addDate": 1715839001023,
+            "title": "用于基于质谱的蛋白质组学的 R/Bioconductor 工具",
+            "icon": "https://logo.clearbit.com/lgatto.github.io",
+            "url": "https://lgatto.github.io/ProteomicsBioc2016Workshop/#visualising-raw-data"
+          },
+          {
+            "type": "link",
+            "addDate": 1720077099380,
+            "title": "常用单位换算-MedSci.cn",
+            "icon": "https://logo.clearbit.com/m.medsci.cn",
+            "url": "https://m.medsci.cn/scale/show.do?id=556d2e68c0"
+          },
+          {
+            "type": "link",
+            "addDate": 1722926007225,
+            "title": "KEGG BRITE: KEGG Pathway Maps",
+            "icon": "https://logo.clearbit.com/www.genome.jp",
+            "url": "https://www.genome.jp/brite/query=00330&htext=br08901.keg&option=-a&node_proc=br08901_org&proc_enabled=map&panel=collapse"
+          },
+          {
+            "type": "link",
+            "addDate": 1723517092588,
+            "title": "第 10 章：分析数据并进行荟萃分析 |Cochrane培训",
+            "icon": "https://logo.clearbit.com/training.cochrane.org",
+            "url": "https://training.cochrane.org/handbook/current/chapter-10"
+          },
+          {
+            "type": "link",
+            "addDate": 1723533422725,
+            "title": "Chapter 12 第十四讲：心理学元分析入门 | R语言在心理学研究中的应用: 从原始数据到可重复的论文手稿(V2)",
+            "icon": "https://logo.clearbit.com/bookdown.org",
+            "url": "https://bookdown.org/hcp4715/R4PsyBook/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%AE%B2%E5%BF%83%E7%90%86%E5%AD%A6%E5%85%83%E5%88%86%E6%9E%90%E5%85%A5%E9%97%A8.html#%E5%85%83%E5%88%86%E6%9E%90%E7%9A%84%E5%AE%9E%E6%96%BD"
+          },
+          {
+            "type": "link",
+            "addDate": 1713937914236,
+            "title": "Home | Metabolomics",
+            "icon": "https://logo.clearbit.com/link.springer.com",
+            "url": "https://link.springer.com/journal/11306"
+          },
+          {
+            "type": "link",
+            "addDate": 1713937793074,
+            "title": "Analytical Chemistry - ACS Publications",
+            "icon": "https://logo.clearbit.com/pubs.acs.org",
+            "url": "https://pubs.acs.org/journal/ancham"
+          },
+          {
+            "type": "link",
+            "addDate": 1724230812673,
+            "title": "Chapter 10: Analysing data and undertaking meta-analyses | Cochrane Training",
+            "icon": "https://logo.clearbit.com/training.cochrane.org",
+            "url": "https://training.cochrane.org/handbook/current/chapter-10#section-10-14"
+          },
+          {
+            "type": "link",
+            "addDate": 1724230823281,
+            "title": "Meta-analysis - Wikipedia",
+            "icon": "https://logo.clearbit.com/en.wikipedia.org",
+            "url": "https://en.wikipedia.org/wiki/Meta-analysis"
+          },
+          {
+            "type": "link",
+            "addDate": 1724230828587,
+            "title": "Forest plot - Wikipedia",
+            "icon": "https://logo.clearbit.com/en.wikipedia.org",
+            "url": "https://en.wikipedia.org/wiki/Forest_plot"
+          },
+          {
+            "type": "link",
+            "addDate": 1724230959013,
+            "title": "生信技工",
+            "icon": "https://logo.clearbit.com/yanzhongsino.github.io",
+            "url": "https://yanzhongsino.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724739852518,
+            "title": "Forest Plot in BMJ Style [The metafor Package]",
+            "icon": "https://logo.clearbit.com/www.metafor-project.org",
+            "url": "https://www.metafor-project.org/doku.php/plots:forest_plot_bmj"
+          },
+          {
+            "type": "link",
+            "addDate": 1724746242285,
+            "title": "Blog - Stats and R",
+            "icon": "https://logo.clearbit.com/statsandr.com",
+            "url": "https://statsandr.com/blog/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725522061887,
+            "title": "OncoSearch",
+            "icon": "https://logo.clearbit.com/kaopubear.top",
+            "url": "https://kaopubear.top/oncosearch/#gsc.tab=0&gsc.q=metabolite%20pathway%20regulation&gsc.sort="
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1696814928995,
+    "title": "其他收藏夹",
+    "children": []
+  }
+]
